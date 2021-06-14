@@ -24,7 +24,7 @@ fun main(arr: Array<String>) {
         18 ->"mature"
         25 -> "extra mature"
         10 -> "kid"
-        else ->"ps go home"
+        else ->"ps go home" //default case
     }
     println("status is $status ")
 
